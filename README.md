@@ -1,7 +1,11 @@
-Twenty by HTML5 UP
-html5up.net | @ajlkn
+*** Wedding Website Repository ***
+
+Copy of Twenty by HTML5 UP html5up.net | @ajlkn
+
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+
+<!--
 
 This is Twenty, a minimal, multi-page responsive site template for HTML5 UP.
 
@@ -39,4 +43,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools (github.com/ajlkn/responsive-tools) -->
