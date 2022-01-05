@@ -1981,8 +1981,7 @@ input, select, textarea {
 		.icon.featured {
 			cursor: default;
 			display: block;
-			margin: 0 0 1.5em 0;
-			opacity: 0.35;
+			margin: 1em 1em 1em 1em;
 			text-align: center;
 		}
 
