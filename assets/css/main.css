@@ -2315,7 +2315,7 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			font-weight: 900;
+			font-weight: 300; 
 			margin: 0;
 		}
 
