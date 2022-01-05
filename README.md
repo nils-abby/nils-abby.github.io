@@ -1,6 +1,8 @@
-*** Wedding Website Repository ***
+**Wedding Website Repository**
 
 Copy of Twenty by HTML5 UP html5up.net | @ajlkn
+
+Edited by @abbyazari.
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
