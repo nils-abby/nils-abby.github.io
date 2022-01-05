@@ -2150,7 +2150,6 @@ input, select, textarea {
 		line-height: 3.75em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
 	}
 
 		input[type="button"]:hover,
@@ -2326,7 +2325,6 @@ input, select, textarea {
 			letter-spacing: 0.075em;
 			position: absolute;
 			right: 1.5em;
-			text-transform: uppercase;
 			top: 0.75em;
 		}
 
@@ -2436,7 +2434,6 @@ input, select, textarea {
 		line-height: 2.25em;
 		min-width: 13em;
 		padding: 1em 0;
-		text-transform: uppercase;
 		margin-top: calc(-1em + 1px);
 	}
 
@@ -2570,13 +2567,11 @@ input, select, textarea {
 					margin: 0;
 					padding-left: 0.05em;
 					position: relative;
-					text-transform: uppercase;
 				}
 
 			#banner .inner p {
 				letter-spacing: 0.1em;
 				margin: 0;
-				text-transform: uppercase;
 			}
 
 				#banner .inner p a {
@@ -3064,7 +3059,6 @@ input, select, textarea {
 				color: #fff;
 				font-size: 0.8em;
 				letter-spacing: 0.075em;
-				text-transform: uppercase;
 				padding: 0.25em 0.75em 1em 0.75em;
 			}
 
